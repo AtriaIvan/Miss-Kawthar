@@ -27,7 +27,7 @@ desktop.ini
 # ─── Data & Logs ───────────────────────────────
 data/logs/
 *.log
-*.csv            # Remove this line if you WANT to commit sample CSVs
+*.csv
 
 # ─── Misc ──────────────────────────────────────
 *.tmp
