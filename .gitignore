@@ -1,0 +1,35 @@
+# ─── Arduino ───────────────────────────────────
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+
+# ─── MATLAB ────────────────────────────────────
+*.asv          # Auto-save backup files
+*.m~           # Temp files
+*.mex*         # Compiled MEX files
+slprj/         # Simulink cache
+*.slxc
+
+# ─── IDEs & Editors ────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ─── OS Files ──────────────────────────────────
+.DS_Store        # macOS
+Thumbs.db        # Windows
+desktop.ini
+
+# ─── Data & Logs ───────────────────────────────
+data/logs/
+*.log
+*.csv            # Remove this line if you WANT to commit sample CSVs
+
+# ─── Misc ──────────────────────────────────────
+*.tmp
+*.bak
+__pycache__/
