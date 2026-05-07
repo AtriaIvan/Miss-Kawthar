@@ -1,4 +1,5 @@
-// gm pookies
+// gn pookies :3
+
 #include "DHT.h"
 #include <LiquidCrystal_I2C.h>
 
