@@ -13,4 +13,4 @@ Water Level Sensor\
 DHT Sensor\
 MQ2 Gas Sensor\
 IR Flame Sensor\
-ESP8266 Wi-Fi Module\
+ESP8266 Wi-Fi Module
