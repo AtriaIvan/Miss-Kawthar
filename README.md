@@ -18,6 +18,7 @@ Monitors room temperature and humidity using a DHT sensor (displayed on LCD). An
 **Fall Detection & Data Storage**  
 An MPU6050 tracks patient orientation and triggers a buzzer if a fall is detected (roll > ±60°). An ESP8266 Wi-Fi module on the same board collects data from all modules and sends periodic reports to Google Sheets via the Google Sheets API.
 
-> The project can be built with only 2 Arduinos btw, one dedicated to the Heart Rate Monitor (required for MATLAB serial at 100Hz), and one handling all other modules :3
+> The project can be built with only 2 Arduinos btw, one dedicated to the Heart Rate Monitor (required for MATLAB serial at 100Hz), and one handling all other modules.
+> and at the end .. we all know that miss kawthar do all that better than any smart system exists :3
 
 ---
